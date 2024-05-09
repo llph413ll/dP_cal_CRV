@@ -1,1 +1,0 @@
-web: gunicorn dP_cal_CRV:app
